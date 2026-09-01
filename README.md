@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [SEU NOME]
+# 👋 Olá! Eu sou Alesandro
 
 ### 💻 Full Stack Developer | React • TypeScript • JavaScript • Next.js
 
@@ -79,4 +79,4 @@ React • TypeScript • Vite • Next.js • PostgreSQL
 Estou sempre aberto a novas oportunidades, projetos e conexões
 com pessoas da área de tecnologia.
 
-[LinkedIn](SEU_LINKEDIN)
+[LinkedIn]www.linkedin.com/in/alesandro-filho-7a1617306
