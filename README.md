@@ -1,33 +1,32 @@
-# 👋 Olá! Eu sou Alesandro
+# 👋 Hi, I'm Alesandro
 
 ### 💻 Full Stack Developer | React • TypeScript • JavaScript • Next.js
 
-🇧🇷 Brasil
+🇧🇷 Brazil
 
-Sou desenvolvedor Full Stack apaixonado por transformar ideias em
-aplicações modernas, funcionais e bem estruturadas.
+I'm a Full Stack Developer passionate about building modern, scalable,
+and user-focused web applications.
 
-Tenho experiência prática no desenvolvimento de aplicações web,
-atuando tanto no frontend quanto no backend. Gosto de transformar
-necessidades reais em soluções digitais, sempre buscando escrever
-código limpo, organizado e de fácil manutenção.
+I enjoy turning ideas and real business needs into practical digital
+solutions. My experience includes building complete web applications,
+from modern and responsive interfaces to backend functionality,
+APIs, and database integration.
 
-Atualmente, estou focado em evoluir minhas habilidades como
-desenvolvedor Full Stack, criando projetos reais e aprimorando
-continuamente meus conhecimentos em desenvolvimento web.
+I'm constantly improving my skills through real-world projects,
+hands-on development, and continuous learning.
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 What I Do
 
-- 🌐 Desenvolvimento de aplicações web
-- ⚛️ Interfaces modernas e responsivas
-- 🔧 Desenvolvimento de APIs e funcionalidades backend
-- 🗄️ Integração e gerenciamento de bancos de dados
-- 🧩 Desenvolvimento de sistemas Full Stack
-- 📊 Dashboards e sistemas de gerenciamento
-- 💡 Transformação de ideias em soluções digitais
-- 📚 Aprendizado contínuo e desenvolvimento de projetos práticos
+- 🌐 Full Stack Web Development
+- ⚛️ Modern and responsive user interfaces
+- 🔧 Backend development with Next.js
+- 🔌 API development and integrations
+- 🗄️ Database integration and management
+- 📊 Dashboards and management systems
+- 🧩 Application architecture and organization
+- 💡 Turning ideas into real-world digital solutions
 
 ---
 
@@ -39,7 +38,7 @@ continuamente meus conhecimentos em desenvolvimento web.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -57,128 +56,161 @@ continuamente meus conhecimentos em desenvolvimento web.
 
 ---
 
-# 🚀 Projetos
+# 🚀 Featured Projects
 
-## 🏢 ERP — KCN Representações
+## 🏢 KCN Representações — ERP System
 
-Sistema ERP desenvolvido para uma empresa de representações,
-com o objetivo de centralizar processos e informações da empresa
-em uma única plataforma.
+A business management ERP system developed for **KCN Representações**.
 
-O projeto foi desenvolvido pensando em uma aplicação moderna,
-organizada e adaptada às necessidades do negócio.
+The project was designed to centralize and organize business
+operations into a single platform, providing a more efficient way
+to manage company information and processes.
 
-**Principais objetivos:**
+The system was developed based on the company's real business
+requirements, focusing on usability, organization, and scalability.
 
-- 📊 Gerenciamento de informações
-- 👥 Organização de dados e processos
-- 📦 Controle e gerenciamento de operações
-- 📈 Visualização de informações
-- 🔐 Estrutura preparada para diferentes funcionalidades
-- 🧩 Sistema desenvolvido de acordo com as necessidades da empresa
+### Highlights
 
-**Tecnologias:** Next.js • React • TypeScript • PostgreSQL
+- 🏢 Business management system
+- 📊 Management dashboards and information
+- 🗂️ Centralized business data
+- 🔐 Structured application architecture
+- ⚙️ Business-oriented features and workflows
+- 📱 Modern and responsive interface
+
+**Tech Stack:** Next.js • React • TypeScript • PostgreSQL
 
 ---
 
 ## ⚽ Onze de Época
 
-Projeto de jogo baseado na história do Campeonato Brasileiro,
-permitindo montar escalações utilizando jogadores de diferentes
-temporadas.
+A football-based web game inspired by the history of the
+**Brazilian Championship**.
 
-A proposta é combinar desenvolvimento web com uma experiência
-interativa baseada no futebol brasileiro.
+The project allows users to build squads using players from
+different seasons, combining historical football data with an
+interactive gaming experience.
 
-**Tecnologias:**
+### Highlights
 
-React • TypeScript • Vite • Next.js • PostgreSQL
+- ⚽ Historical Brazilian football data
+- 🎮 Interactive squad-building experience
+- 🧩 Dynamic player selection
+- 📊 Team rating system
+- 🏆 Different formations and strategies
+
+**Tech Stack:** React • TypeScript • Vite • Next.js • PostgreSQL
 
 ---
 
 ## 🤖 AI Code Reviewer
 
-Projeto desenvolvido para explorar uma ferramenta de revisão e
-análise de código, buscando auxiliar desenvolvedores durante o
-processo de desenvolvimento.
+A project focused on code analysis and review, exploring ways to
+assist developers during the software development process.
 
-**Tecnologias:**
+The project was built to explore modern development concepts,
+automation, and developer productivity.
 
-TypeScript
+**Tech Stack:** TypeScript
 
 ---
 
 ## 📊 Fortaleza Open Data Dashboard
 
-Dashboard desenvolvido para apresentar e visualizar dados públicos
-de maneira organizada e intuitiva.
+A dashboard created to visualize and organize public data,
+providing information through a clean and intuitive interface.
 
-O projeto explora a construção de interfaces para visualização
-de informações e análise de dados.
+The project focuses on data presentation, usability, and
+interactive visualization.
 
-**Tecnologias:**
-
-JavaScript
+**Tech Stack:** JavaScript
 
 ---
 
-## 🧪 Desafio Full Stack — Veritas
+## 🌐 Personal Portfolio
 
-Projeto desenvolvido como desafio Full Stack, com foco na construção
-de uma aplicação utilizando conceitos de desenvolvimento frontend
-e backend.
+My personal portfolio website created to showcase my projects,
+skills, and development journey.
 
-**Tecnologias:**
+The project focuses on creating a modern, responsive, and
+professional web experience.
 
-Projeto Full Stack
-
----
-
-## 💻 Alesandro Matos Filho — RGB
-
-Projeto pessoal desenvolvido para explorar desenvolvimento web,
-interfaces e experiências visuais modernas.
-
-**Tecnologias:**
-
-HTML • CSS • JavaScript
+**Tech Stack:** JavaScript
 
 ---
 
-# 📚 Atualmente
+## 🧪 Full Stack Challenge — Veritas
 
-- 🚀 Evoluindo como desenvolvedor Full Stack
-- ⚛️ Aprofundando meus conhecimentos em React e Next.js
-- 🧠 Estudando arquitetura e boas práticas de desenvolvimento
-- 🗄️ Aprimorando conhecimentos em bancos de dados
-- 💻 Desenvolvendo projetos reais para colocar conhecimentos em prática
-- 📖 Buscando constantemente novos desafios na área de tecnologia
+A Full Stack project developed as part of a technical challenge,
+focused on building a complete application and applying software
+development concepts in practice.
 
----
-
-# 🎯 Objetivo
-
-Estou buscando uma oportunidade de **estágio em desenvolvimento de
-software**, onde eu possa aplicar meus conhecimentos, aprender com
-profissionais experientes e contribuir para projetos reais.
-
-Tenho interesse especialmente em oportunidades envolvendo
-**desenvolvimento Full Stack, frontend, backend e desenvolvimento web.**
+**Tech Stack:** Full Stack Development
 
 ---
 
-# 📫 Vamos nos conectar?
+## 💻 RGB — Alesandro Matos Filho
 
-Estou sempre aberto a novas oportunidades, projetos e conexões
-com pessoas da área de tecnologia.
+A personal web project created to explore modern web development,
+visual design, and interactive interfaces.
 
-### 🔗 LinkedIn
-
-[Meu LinkedIn]www.linkedin.com/in/alesandro-filho-7a1617306
-
-
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-⭐ Se algum dos meus projetos chamou sua atenção, fique à vontade
-para explorar meus repositórios!
+# 📚 Currently Learning
+
+- 🚀 Improving my Full Stack development skills
+- ⚛️ Deepening my knowledge of React and Next.js
+- 🔧 Improving backend development practices
+- 🗄️ Expanding my knowledge of PostgreSQL and databases
+- 🧠 Studying software architecture and clean code
+- 💻 Building real-world projects to strengthen my experience
+
+---
+
+# 🎯 Career Goal
+
+I'm currently looking for an **internship opportunity in software
+development**, where I can contribute to real projects, learn from
+experienced professionals, and continue growing as a Full Stack
+Developer.
+
+I'm particularly interested in opportunities involving:
+
+**Full Stack Development • Frontend Development • Backend Development
+• Web Applications**
+
+---
+
+# 📈 My Development Journey
+
+I believe the best way to become a better developer is by building.
+
+Through personal projects and real-world applications, I continuously
+challenge myself to learn new concepts, solve problems, and improve
+the way I develop software.
+
+My goal is not only to write code, but to understand the problem
+behind the code and build solutions that are useful, maintainable,
+and easy to evolve.
+
+---
+
+# 📫 Let's Connect
+
+I'm always open to new opportunities, projects, and connections
+with people in the technology industry.
+
+### 💼 LinkedIn
+
+[Connect with me on LinkedIn](www.linkedin.com/in/alesandro-filho-7a1617306)
+
+### 🌐 Portfolio
+
+[Visit my Portfolio](https://alesandromatosfilho-rgb.github.io/portfolio-alesandro/))
+
+---
+
+⭐ Feel free to explore my repositories and follow my development
+journey!
