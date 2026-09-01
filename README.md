@@ -122,17 +122,6 @@ JavaScript
 
 ---
 
-## 🌐 Portfolio Alessandro
-
-Meu portfólio pessoal desenvolvido para apresentar meus projetos,
-habilidades e trajetória na área de tecnologia.
-
-**Tecnologias:**
-
-JavaScript
-
----
-
 ## 🧪 Desafio Full Stack — Veritas
 
 Projeto desenvolvido como desafio Full Stack, com foco na construção
@@ -145,7 +134,7 @@ Projeto Full Stack
 
 ---
 
-## 💻 Alessandro Matos Filho — RGB
+## 💻 Alesandro Matos Filho — RGB
 
 Projeto pessoal desenvolvido para explorar desenvolvimento web,
 interfaces e experiências visuais modernas.
