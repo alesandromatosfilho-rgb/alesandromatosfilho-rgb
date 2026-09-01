@@ -204,7 +204,7 @@ with people in the technology industry.
 
 ### 💼 LinkedIn
 
-[www.linkedin.com/in/alesandro-filho-7a1617306](www.linkedin.com/in/alesandro-filho-7a1617306)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/alesandro-filho-7a1617306/)
 
 ### 🌐 Portfolio
 
