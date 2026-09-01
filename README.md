@@ -1,15 +1,20 @@
-# 👋 Olá! Eu sou Alesandro
+# 👋 Olá! Eu sou Alessandro
 
 ### 💻 Full Stack Developer | React • TypeScript • JavaScript • Next.js
 
 🇧🇷 Brasil
 
-Sou desenvolvedor Full Stack apaixonado por transformar ideias em aplicações
-modernas, funcionais e bem estruturadas.
+Sou desenvolvedor Full Stack apaixonado por transformar ideias em
+aplicações modernas, funcionais e bem estruturadas.
 
-Tenho experiência no desenvolvimento de aplicações web, trabalhando tanto
-no frontend quanto no backend com Next.js, sempre buscando escrever código
-limpo, organizado e eficiente.
+Tenho experiência prática no desenvolvimento de aplicações web,
+atuando tanto no frontend quanto no backend. Gosto de transformar
+necessidades reais em soluções digitais, sempre buscando escrever
+código limpo, organizado e de fácil manutenção.
+
+Atualmente, estou focado em evoluir minhas habilidades como
+desenvolvedor Full Stack, criando projetos reais e aprimorando
+continuamente meus conhecimentos em desenvolvimento web.
 
 ---
 
@@ -18,10 +23,11 @@ limpo, organizado e eficiente.
 - 🌐 Desenvolvimento de aplicações web
 - ⚛️ Interfaces modernas e responsivas
 - 🔧 Desenvolvimento de APIs e funcionalidades backend
-- 🗄️ Integração com bancos de dados
-- 🧩 Arquitetura e organização de projetos
-- 📊 Desenvolvimento de sistemas completos Full Stack
-- 💡 Transformação de ideias em projetos reais
+- 🗄️ Integração e gerenciamento de bancos de dados
+- 🧩 Desenvolvimento de sistemas Full Stack
+- 📊 Dashboards e sistemas de gerenciamento
+- 💡 Transformação de ideias em soluções digitais
+- 📚 Aprendizado contínuo e desenvolvimento de projetos práticos
 
 ---
 
@@ -51,13 +57,38 @@ limpo, organizado e eficiente.
 
 ---
 
-## 📌 Projetos
+# 🚀 Projetos
 
-### ⚽ Onze de Época
+## 🏢 ERP — KCN Representações
+
+Sistema ERP desenvolvido para uma empresa de representações,
+com o objetivo de centralizar processos e informações da empresa
+em uma única plataforma.
+
+O projeto foi desenvolvido pensando em uma aplicação moderna,
+organizada e adaptada às necessidades do negócio.
+
+**Principais objetivos:**
+
+- 📊 Gerenciamento de informações
+- 👥 Organização de dados e processos
+- 📦 Controle e gerenciamento de operações
+- 📈 Visualização de informações
+- 🔐 Estrutura preparada para diferentes funcionalidades
+- 🧩 Sistema desenvolvido de acordo com as necessidades da empresa
+
+**Tecnologias:** Next.js • React • TypeScript • PostgreSQL
+
+---
+
+## ⚽ Onze de Época
 
 Projeto de jogo baseado na história do Campeonato Brasileiro,
 permitindo montar escalações utilizando jogadores de diferentes
 temporadas.
+
+A proposta é combinar desenvolvimento web com uma experiência
+interativa baseada no futebol brasileiro.
 
 **Tecnologias:**
 
@@ -65,18 +96,98 @@ React • TypeScript • Vite • Next.js • PostgreSQL
 
 ---
 
-## 📚 Atualmente
+## 🤖 AI Code Reviewer
 
-- 🚀 Evoluindo como desenvolvedor Full Stack
-- 📖 Aprimorando conhecimentos em Next.js e backend
-- 🧠 Estudando arquitetura e boas práticas de desenvolvimento
-- 💻 Criando projetos para aplicar conhecimentos na prática
+Projeto desenvolvido para explorar uma ferramenta de revisão e
+análise de código, buscando auxiliar desenvolvedores durante o
+processo de desenvolvimento.
+
+**Tecnologias:**
+
+TypeScript
 
 ---
 
-## 📫 Vamos nos conectar?
+## 📊 Fortaleza Open Data Dashboard
+
+Dashboard desenvolvido para apresentar e visualizar dados públicos
+de maneira organizada e intuitiva.
+
+O projeto explora a construção de interfaces para visualização
+de informações e análise de dados.
+
+**Tecnologias:**
+
+JavaScript
+
+---
+
+## 🌐 Portfolio Alessandro
+
+Meu portfólio pessoal desenvolvido para apresentar meus projetos,
+habilidades e trajetória na área de tecnologia.
+
+**Tecnologias:**
+
+JavaScript
+
+---
+
+## 🧪 Desafio Full Stack — Veritas
+
+Projeto desenvolvido como desafio Full Stack, com foco na construção
+de uma aplicação utilizando conceitos de desenvolvimento frontend
+e backend.
+
+**Tecnologias:**
+
+Projeto Full Stack
+
+---
+
+## 💻 Alessandro Matos Filho — RGB
+
+Projeto pessoal desenvolvido para explorar desenvolvimento web,
+interfaces e experiências visuais modernas.
+
+**Tecnologias:**
+
+HTML • CSS • JavaScript
+
+---
+
+# 📚 Atualmente
+
+- 🚀 Evoluindo como desenvolvedor Full Stack
+- ⚛️ Aprofundando meus conhecimentos em React e Next.js
+- 🧠 Estudando arquitetura e boas práticas de desenvolvimento
+- 🗄️ Aprimorando conhecimentos em bancos de dados
+- 💻 Desenvolvendo projetos reais para colocar conhecimentos em prática
+- 📖 Buscando constantemente novos desafios na área de tecnologia
+
+---
+
+# 🎯 Objetivo
+
+Estou buscando uma oportunidade de **estágio em desenvolvimento de
+software**, onde eu possa aplicar meus conhecimentos, aprender com
+profissionais experientes e contribuir para projetos reais.
+
+Tenho interesse especialmente em oportunidades envolvendo
+**desenvolvimento Full Stack, frontend, backend e desenvolvimento web.**
+
+---
+
+# 📫 Vamos nos conectar?
 
 Estou sempre aberto a novas oportunidades, projetos e conexões
 com pessoas da área de tecnologia.
 
-[LinkedIn]www.linkedin.com/in/alesandro-filho-7a1617306
+### 🔗 LinkedIn
+
+[Meu LinkedIn](SEU_LINKEDIN)
+
+---
+
+⭐ Se algum dos meus projetos chamou sua atenção, fique à vontade
+para explorar meus repositórios!
