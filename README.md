@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Alessandro
+# 👋 Olá! Eu sou Alesandro
 
 ### 💻 Full Stack Developer | React • TypeScript • JavaScript • Next.js
 
@@ -185,7 +185,9 @@ com pessoas da área de tecnologia.
 
 ### 🔗 LinkedIn
 
-[Meu LinkedIn](SEU_LINKEDIN)
+[Meu LinkedIn]www.linkedin.com/in/alesandro-filho-7a1617306
+
+
 
 ---
 
