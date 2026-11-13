@@ -82,6 +82,46 @@ requirements, focusing on usability, organization, and scalability.
 
 ---
 
+## 🛍️ ARWA Fitwear — E-commerce & Admin Panel
+
+A complete online store and management panel developed for **ARWA Fitwear**, a fitness fashion brand from Fortaleza, Brazil.
+
+🔗 **Live site:** [arwa.com.br](https://arwa.com.br)
+
+The storefront includes catalog, lookbook, videos, cart, single-page checkout, coupons, and custom-printed apparel. The admin panel lets the owners manage the whole operation without touching code.
+
+### Highlights
+
+- 🛒 Single-page checkout with coupon support
+- 📦 Product and per-size stock management
+- 🧾 Order management
+- 🎟️ Coupons and influencer ranking
+- 📇 Lead capture with CSV export
+- 🎨 Site appearance editable from the panel
+- 🔐 Security testing and hardening (rate limiting, auth on every admin route, CSP/HSTS headers)
+
+**Tech Stack:** Next.js • React • Prisma • MySQL • JavaScript • HTML5 • CSS3
+
+---
+
+## 🏋️ Top Up Fitness — Website & Admin Panel
+
+Front-end and admin panel developed for **Top Up**, a fitness gym network.
+
+The website presents the gym units, plans, and class schedule, with enrollment by unit and lead capture. The admin panel keeps all of that content up to date and is packaged for HostGator deployment, with its own installer.
+
+### Highlights
+
+- 📍 Units list and map, with plans, photos, and modalities per unit
+- 🗓️ Class schedule management
+- 📇 Lead management with CSV export
+- 👥 User management and site settings (apps, social media, WhatsApp)
+- 🔌 Admin-fed API consumed by the front-end
+
+**Tech Stack:** PHP • MySQL • JavaScript • HTML5 • CSS3
+
+---
+
 ## ⚽ Onze de Época
 
 A football-based web game inspired by the history of the
