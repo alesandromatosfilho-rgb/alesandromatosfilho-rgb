@@ -108,6 +108,8 @@ The storefront includes catalog, lookbook, videos, cart, single-page checkout, c
 
 Front-end and admin panel developed for **Top Up**, a fitness gym network.
 
+🔗 **Live site:** [topupacademia.com.br](https://topupacademia.com.br)
+
 The website presents the gym units, plans, and class schedule, with enrollment by unit and lead capture. The admin panel keeps all of that content up to date and is packaged for HostGator deployment, with its own installer.
 
 ### Highlights
